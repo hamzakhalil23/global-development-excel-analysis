@@ -1,0 +1,8 @@
+# Excel lock, backup and temporary files
+~$*
+*.tmp
+*.bak
+*.xlk
+# Operating system files
+.DS_Store
+Thumbs.db
